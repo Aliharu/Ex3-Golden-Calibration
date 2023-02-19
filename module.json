@@ -22,11 +22,11 @@
     },
     "systems": ["exaltedthird"],
     "author": "Aliharu",
-    "url": "",
-    "manifest": "",
-    "download": "",
-    "bugs": "",
-    "readme": "",
+    "url": "https://github.com/Aliharu/Ex3-Golden-Calibration",
+    "manifest": "https://raw.githubusercontent.com/Aliharu/Ex3-Golden-Calibration/master/module.json",
+    "download": "https://github.com/Aliharu/Ex3-Golden-Calibration/archive/v0.1.0.zip",
+    "bugs": "https://github.com/Aliharu/Ex3-Golden-Calibration/issues",
+    "readme": "https://github.com/Aliharu/Ex3-Golden-Calibration/blob/main/README.md",
     "packs": [
         {
             "name": "golden-calibration",
