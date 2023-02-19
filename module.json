@@ -1,0 +1,40 @@
+{
+    "id": "ex3-golden-calibration",
+    "name": "ex3-golden-calibration",
+    "title": "Exalted Third Edition Golden Calibration",
+    "description": "A foundry version of the fan made golden calibration charmset",
+    "version": "0.1.0",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": 10,
+        "verified": "10"
+    },
+    "relationships": {
+        "systems": [{
+            "id": "exaltedthird",
+            "type": "system",
+            "manifest": "https://raw.githubusercontent.com/Aliharu/Foundry-Ex3/main/system.json",
+            "compatibility": {
+                "verified": "1.8.2"
+            }
+        }]
+    },
+    "systems": ["exaltedthird"],
+    "author": "Aliharu",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "bugs": "",
+    "readme": "",
+    "packs": [
+        {
+            "name": "golden-calibration",
+            "label": "Golden Calibration",
+            "module": "ex3-golden-calibration",
+            "system": "exaltedthird",
+            "path": "packs/common-skills.db",
+            "entity": "Adventure"
+        }
+    ]
+}
