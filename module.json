@@ -33,7 +33,7 @@
             "label": "Golden Calibration",
             "module": "ex3-golden-calibration",
             "system": "exaltedthird",
-            "path": "packs/common-skills.db",
+            "path": "packs/golden-calibration.db",
             "entity": "Adventure"
         }
     ]

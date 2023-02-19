@@ -5,7 +5,7 @@
 This is a FoundryVTT version of the fan made [Golden Calibration charmset by Rand Brittain](https://www.dropbox.com/sh/h98mpo2f6xsed97/AADyaUz4TvX-I731isdk38XRa?dl=0)
 
 ## Content
-Golden Calibration is a redone solar charmset for Exalted Third edition, this Foundry version has been inputted with as much information as possible for each charm.  This version has ommited the intro which can be found in the PDF version linked above.
+Golden Calibration is a redone solar charmset for Exalted Third edition, this Foundry version has been inputted with as much information as possible for each charm.  This version does not contain the charm cascades.  These can be found in the PDF version linked above.
 
 ## Copyright
 Golden Calibration and by extention this module are covered under the Dark Pack license.
