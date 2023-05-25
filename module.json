@@ -22,11 +22,11 @@
   "readme": "https://github.com/Aliharu/Ex3-Golden-Calibration/blob/main/README.md",
   "packs": [
     {
-      "label": "Golden Calibration Charms",
-      "name": "golden-calibration-charms",
+      "label": "Golden Calibration",
+      "name": "golden-calibration",
       "type": "Item",
       "system": "exaltedthird",
-      "path": "packs/golden-calibration-charms"
+      "path": "packs/golden-calibration"
     },
     {
       "label": "Golden Calibration Intro",
